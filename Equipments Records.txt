@@ -1,0 +1,2 @@
+Sr # = 1 --- Name = Dumbbell --- Details = Five kg's 10 sets of dumbbells of price 1200 pkr per set
+Sr # = 2 --- Name = Barbell --- Details = Ten kg's 2 sets of barbell of price 6000 pkr per set 
